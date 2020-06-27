@@ -1,7 +1,7 @@
 ==================================================================
 Getting and Cleaning Data Coursera Week 4 assignment 
 ==================================================================
-Melody M
+mmultra
 ==================================================================
 
 This assignment was given with the task of converting wearbale computing data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
