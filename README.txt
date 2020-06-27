@@ -24,4 +24,4 @@ The dataset includes the following files:
 
 - 'tidydf.txt': Generated tidy data set output from run_analysis.R
 
-
+- "CodeBook.md": describes variables, data, and transformations done in the clean up of the data 
